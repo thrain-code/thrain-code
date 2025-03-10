@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Web+Developer;Tech+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a developer passionate about technology and creative problem-solving. With a background in web development, I'm always looking for opportunities to learn and grow in this ever-changing industry.
 
@@ -12,7 +12,7 @@ I'm a developer passionate about technology and creative problem-solving. With a
 -  I'm currently learning **[Technology/Programming Language/Framework]**
 -  I'm looking to collaborate on **open source projects and innovative solutions with positive impact**
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
@@ -28,14 +28,14 @@ I'm a developer passionate about technology and creative problem-solving. With a
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thrain-traitor&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thrain-traitor&theme=vue-dark" alt="GitHub Streak" />
 </div>
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <div align="center">
   <a href="https://www.instagram.com/dev_bythrain/" target="_blank">
