@@ -2,7 +2,7 @@
 
 ## GitHub Stats
 
-<div>
+<div class="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=thrain-traitor&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thrain-traitor&theme=vue-dark" alt="GitHub Streak" />
 </div>
