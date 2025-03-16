@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [@thrain-traitor](https://github.com/thrain-traitor)
+# Hi there 👋, I'm [@thrain-traitor](https://github.com/thrain-code)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thrain-traitor&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
