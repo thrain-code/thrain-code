@@ -1,8 +1,8 @@
 # Hi there 👋, I'm [@thrain-traitor](https://github.com/thrain-code)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thrain-traitor&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thrain-traitor&theme=vue-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thrain-code&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thrain-code&theme=vue-dark" alt="GitHub Streak" />
 </div>
 
 ## Connect with Me
