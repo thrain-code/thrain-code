@@ -27,9 +27,11 @@ Despite my love for adventure in tech, I’m actually a pretty boring guy.
 
 ---
 
+![thrain-code's GitHub stats]
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thrain-code&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thrain-code&theme=vue-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thrain-code&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thrain-code&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -37,7 +39,3 @@ Despite my love for adventure in tech, I’m actually a pretty boring guy.
 ### 📫 Connect with Me
 
 - Instagram: [your-instagram-handle](https://instagram.com/your-instagram-handle)
-
----
-
-![thrain-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=thrain-code&show_icons=true&theme=tokyonight)
